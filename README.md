@@ -21,6 +21,13 @@ Prints the first 100 fib numerics.
 Prints the for-loop in each language using the time module.
 
 ---
+
+# Results:
+---
+
+Reuslts are WIP
+
+---
 ## Contributing:
 
 Please show some solidarity and contribute to nua:
