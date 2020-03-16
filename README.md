@@ -6,6 +6,21 @@ Comparing nua's qualitiy that let's it compete with other highlevel langs like r
 You'll find differents of sub-repos in this repo, showing the perfomance of all tested languages.
 
 ---
+
+## Hello-bench
+
+Prints the common ```Hello, World!```
+
+
+## Fibonnacci-bench
+
+Prints the first 100 fib numerics.
+
+## For-bench
+
+Prints the for-loop in each language using the time module.
+
+---
 ## Contributing:
 
 Please show some solidarity and contribute to nua:
