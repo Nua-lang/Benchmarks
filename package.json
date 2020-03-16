@@ -1,0 +1,7 @@
+{
+  "name":"benchmarks",
+  "author":"Timo S.",
+  "install":"git clone https://github.com/Nua-lang/Nua --s",
+  "test": "instanbul -c nua-core",
+  "website": "http://nua-lang.github.io"
+}
